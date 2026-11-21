@@ -68,3 +68,5 @@ https://video1.getstreamhosting.com:1936/8042/8042/playlist.m3u8
 https://r.eu.cdn-redge.media/livehls/oeu/mt/live/6ter_fr/live.livx/playlist.m3u8
 #EXTINF:-1,NCI 
 https://cflive.kaltura.com/env/d.live.nvp1/live/hls/p/5571652/e/1_2gnrfyb6/tl/main/st/0/t/_2ISZf1pGSI6I6i-fhncIg/index-s32.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="LifeTV (CI)" tvg-logo="https://www.lifetv.ci/wp-content/uploads/2023/07/logo.png" tvg-country="Côte d’Ivoire" group-title="01. TNT-Top",LifeTV (CI)
+https://tvradiozap.eu/1112
