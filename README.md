@@ -74,3 +74,5 @@ https://tvradiozap.eu/1112
 https://tvradiozap.eu/949
 #EXTINF:-1 tvg-id="" tvg-name="Diaspora Movies (FR)" tvg-logo="https://www.diaspora-movies.com/wp-content/uploads/2025/03/LOGO-DIASPORA-MOVIES-SANS-FOND-2.png" tvg-country="Panafrique" group-title="01. TNT-Top",Diaspora Movies (FR)
 https://tvradiozap.eu/1424
+#EXTINF:-1 tvg-id="" tvg-name="Diaspora Séries (FR)" tvg-logo="https://www.zik-channel.com/wp-content/uploads/2020/12/313CFE1E-B809-436D-AF04-A83E091E9F2E-600x302.jpeg" tvg-country="Panafrique" group-title="01. TNT-Top",Diaspora Séries (FR)
+https://tvradiozap.eu/1430
