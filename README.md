@@ -89,3 +89,5 @@ https://tvradiozap.eu/1249
 #EXTINF:-1 tvg-id="Gulli.fr" tvg-name="Gulli" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/ac/Gulli_logo_2023.png/330px-Gulli_logo_2023.png" tvg-country="France" group-title="01. TNT-Top",Gulli
 https://tvradiozap.eu/680
 https://klive.kaltura.com/env/d.live.nvp1/live/hls/p/6234172/e/1_i50dd97e/tl/main/st/0/t/wbzymn5WnK1UFKFXhkp5sw/index-s32.m3u8
+#EXTINF:-1,DBMTV 
+https://dbmtv.vedge.infomaniak.com/livecast/dbmtv/playlist.m3u8
