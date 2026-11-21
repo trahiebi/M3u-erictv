@@ -78,3 +78,5 @@ https://tvradiozap.eu/1424
 https://tvradiozap.eu/1430
 #EXTINF:-1 tvg-id="CTVAfrique.cm" tvg-name="CTV Afrique (CM)" tvg-logo="https://yt3.googleusercontent.com/ytc/AIdro_mgWthNMZyU0LlqkziTT2DBO15sVmEOwOQIYSPa=s176-c-k-c0x00ffffff-no-rj" tvg-country="Cameroun" group-title="04. Cameroun",CTV Afrique (CM)
 https://tvradiozap.eu/999
+#EXTINF:-1 tvg-id="FR:.Passion.Novelas.fr" tvg-name="Passion Bollywood" tvg-logo="https://thumb.canalplus.pro/bran/unsafe/842x/filters:quality%28%7BimageQualityPercentage%7D%29/image/6875883e1b097/uploads/media/PASSION_BOLLYWOOD_640x480.png" tvg-country="France" group-title="18. Séries-Films",Passion Bollywood
+https://tvradiozap.eu/1326
