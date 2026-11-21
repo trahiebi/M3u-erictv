@@ -82,3 +82,5 @@ https://tvradiozap.eu/999
 https://tvradiozap.eu/1326
 #EXTINF:-1 tvg-id="FR:.Passion.Novelas.fr" tvg-name="Passion Novelas" tvg-logo="https://i.imgur.com/boo9jmf.png" tvg-country="France" group-title="18. Séries-Films",Passion Novelas
 https://tvradiozap.eu/1117
+#EXTINF:-1 tvg-id="FR:.TELEVISA.Telenovela.Channel.fr" tvg-name="Televisa Telenovela" tvg-logo="https://images-2.rakuten.tv/storage/snapshot/shot/8771e4e4-1237-40a3-9054-f42e3f863283/variants/49f6b89bd291722c227e312eaa7d04e4380b4c0b7611bf68a82c328d2c00fcb9-width1400-quality80.webp" tvg-country="France" group-title="18. Séries-Films",Televisa Telenovela
+https://tvradiozap.eu/1173
