@@ -84,3 +84,5 @@ https://tvradiozap.eu/1326
 https://tvradiozap.eu/1117
 #EXTINF:-1 tvg-id="FR:.TELEVISA.Telenovela.Channel.fr" tvg-name="Televisa Telenovela" tvg-logo="https://images-2.rakuten.tv/storage/snapshot/shot/8771e4e4-1237-40a3-9054-f42e3f863283/variants/49f6b89bd291722c227e312eaa7d04e4380b4c0b7611bf68a82c328d2c00fcb9-width1400-quality80.webp" tvg-country="France" group-title="18. Séries-Films",Televisa Telenovela
 https://tvradiozap.eu/1173
+#EXTINF:-1 tvg-id="" tvg-name="Zee One" tvg-logo="https://images-0.rakuten.tv/storage/global-live-channel/translation/artwork/6e44fbc4-7921-4fbc-b215-f90c74cf207e-width640-quality90.jpeg" tvg-country="France" group-title="18. Séries-Films",Zee One
+https://tvradiozap.eu/1249
