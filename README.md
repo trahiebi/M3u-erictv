@@ -55,3 +55,5 @@ https://jmp2.uk/plu-5f8ed1ff5c39700007e2204a.m3u8
 https://kali.vdopanel.com:3660/live/vj6jlam1rlive.m3u8
 #EXTINF:-1 tvg-id="Carac3.ch@SD" tvg-logo="https://i.imgur.com/C4e8cjt.png" group-title="French",Carac 3 (1080p)
 https://lfmhd.vedge.infomaniak.com/livecast/lfmhd/playlist.m3u8
+#EXTINF:-1 tvg-id="BenieTV.ci@SD" tvg-logo="https://i.imgur.com/7FXi05e.jpeg" group-title="French",Benie TV (720p)
+https://tv.voozmedia.fun/benietv/index.m3u8
